@@ -6,4 +6,8 @@ Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 
 Live Demo: https://oda-campusx.herokuapp.com/
 
-Usage: pip install requirements.txt
+Few Glimpses:
+
+![alt text](http://url/to/img.png)
+
+
