@@ -8,6 +8,6 @@ Live Demo: https://oda-campusx.herokuapp.com/
 
 Few Glimpses:
 
-![alt text](http://url/to/img.png)
+![Olympics Analysis](Olympics-analysis.PNG)
 
 
